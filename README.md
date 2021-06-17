@@ -1,6 +1,16 @@
-# Homebroker
+#  Satander Dev Week - Front-end ♨️
+[![angular-badge][angular-img]][angular]
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+[angular-img]: https://img.shields.io/badge/Angular-v.12.0.2-red
+[angular]: https://angular.io/
+
+## Descrição 📌
+Front-end da página de cotações do Santander com Angular.
+
+## Execução ✅
+Acesse a seguinte URL para entrar na página: *https://zthiago15.github.io/santander-dio-front-end/*
+
+# Angular Documentation
 
 ## Development server
 
